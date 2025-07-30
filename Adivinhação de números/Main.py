@@ -1,6 +1,6 @@
 import random
 def main():
-    numeroAle = random.randint(0, 210)
+    numeroAle = random.randint(0, 1000)
 
     i = 0
 
